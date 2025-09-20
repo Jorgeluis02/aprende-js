@@ -19,7 +19,7 @@ Ejercicios básicos de JavaScript para repasar variables, funciones, arrays y co
 ## Ejecutar (local)
 
 1. clona el repo:
-   git clone https://github.com/USERNAME/aprende-js.git
+   git clone https://github.com/Jorgeluis02/aprende-js.git
 2. entra:
    cd aprende-js
 3. ejecutar archivo:
